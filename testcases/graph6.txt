@@ -1,0 +1,14 @@
+5
+A
+B
+C
+D
+E
+A B 1
+A C 1
+A E 1
+B D 1
+B E 15
+E C 17
+E D 18
+C D 1
